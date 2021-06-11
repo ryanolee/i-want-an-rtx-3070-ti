@@ -1,0 +1,32 @@
+{
+  "name": "get-me-an-rtx-3070-ti",
+  "version": "1.0.0",
+  "description": "I want and rtx 3070 ti ... alot... so this is by 4 iq play to try to get one...",
+  "main": "index.js",
+  "author": "ryanolee",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/plugin-transform-runtime": "^7.14.3",
+    "@babel/preset-env": "^7.14.4",
+    "@babel/preset-react": "^7.13.13",
+    "@material-ui/core": "^4.11.4",
+    "babel-loader": "^8.2.2",
+    "crypto-random-hex": "^1.0.0",
+    "css-loader": "^5.2.6",
+    "file-loader": "^6.2.0",
+    "md5": "^2.3.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.38.1",
+    "webpack-dev-server": "^3.11.2",
+    "webpack-userscript": "^2.5.8"
+  },
+  "scripts": {
+    "dev": "webpack serve"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.7.2"
+  }
+}
